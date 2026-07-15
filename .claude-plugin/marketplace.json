@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "transito-adv-os-marketplace",
+  "description": "Marketplace oficial do plugin Transito Adv-OS — defesa do condutor no Direito do Transito brasileiro.",
+  "owner": {
+    "name": "Sbroggio Advocacia & IA Combativa"
+  },
+  "plugins": [
+    {
+      "name": "transito-adv-os",
+      "source": "./transito-adv-os",
+      "description": "Defesa do condutor no Direito do Transito: anular multa e infracao, salvar a CNH (cacada/suspensa/bloqueada), recorrer no DETRAN/JARI/CETRAN e no Judiciario, e resolver pedagio. Administrativo (defesa/recurso/suspensao/cassacao/pontuacao/bafometro) + civel-anulatoria/MS + recursos ate STJ/STF. CTB + Lei 14.071/2020, 14.599/2023, 15.428/2026 + Resolucoes CONTRAN. Anti-alucinacao por design; nao promete anular qualquer multa.",
+      "author": {
+        "name": "Sbroggio Advocacia & IA Combativa"
+      }
+    }
+  ]
+}

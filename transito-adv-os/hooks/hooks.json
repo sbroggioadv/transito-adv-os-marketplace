@@ -1,0 +1,12 @@
+{
+  "SessionStart": [
+    {
+      "hooks": [
+        {
+          "type": "command",
+          "command": "echo 'transito-adv-os carregado — rode /start-transito para configurar o escritorio ou /transito-master para comecar a defesa.'"
+        }
+      ]
+    }
+  ]
+}
