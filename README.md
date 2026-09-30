@@ -10,7 +10,7 @@ Marketplace oficial do **transito-adv-os** (IA Combativa).
 > 👉 **[Adquirir a licença](https://pay.kirvano.com/6caf1548-82bf-4646-b26d-93c846286eb2)**
 >
 > **Ao forkar ou clonar este repositório você adere à [licença de uso](LICENSE)**, devendo efetuar o
-> pagamento no link acima e enviar o comprovante para **luis@sbroggio.com.br**.
+> pagamento no link acima e enviar o comprovante para **luis@sbroggio.io**.
 >
 > Os forks são públicos no GitHub e são registrados pelo titular (data, conta e repositório).
 >
